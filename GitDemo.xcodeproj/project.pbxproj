@@ -14,6 +14,7 @@
 		6233F2102AB9EF860060FC6D /* GitDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6233F20F2AB9EF860060FC6D /* GitDemoTests.swift */; };
 		6233F21A2AB9EF860060FC6D /* GitDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6233F2192AB9EF860060FC6D /* GitDemoUITests.swift */; };
 		6233F21C2AB9EF860060FC6D /* GitDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6233F21B2AB9EF860060FC6D /* GitDemoUITestsLaunchTests.swift */; };
+		6233F22B2ABA04E20060FC6D /* FeatureAClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6233F22A2ABA04E20060FC6D /* FeatureAClass.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		6233F2152AB9EF860060FC6D /* GitDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6233F2192AB9EF860060FC6D /* GitDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITests.swift; sourceTree = "<group>"; };
 		6233F21B2AB9EF860060FC6D /* GitDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6233F22A2ABA04E20060FC6D /* FeatureAClass.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeatureAClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				6233F2002AB9EF840060FC6D /* ContentView.swift */,
 				6233F2022AB9EF850060FC6D /* Assets.xcassets */,
 				6233F2042AB9EF850060FC6D /* Preview Content */,
+				6233F22A2ABA04E20060FC6D /* FeatureAClass.swift */,
 			);
 			path = GitDemo;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				6233F2012AB9EF840060FC6D /* ContentView.swift in Sources */,
 				6233F1FF2AB9EF840060FC6D /* GitDemoApp.swift in Sources */,
+				6233F22B2ABA04E20060FC6D /* FeatureAClass.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
